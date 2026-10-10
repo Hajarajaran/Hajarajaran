@@ -9,10 +9,12 @@
 - JavaScript {}
 - C# 💻
 
-$${\color{red}Red}$$
-
 ## My main IT and digital skills are:
 - Creating simple websites and web applications (in *VSCode* with *HTML*/*CSS*/*JS*)
 - Creating simple desktop applications and games (in *VS2026*/*VSCode*/*Unity* with *C#*/*Python*)
 - Being able to efficiently use various AI tools (chatbots, image generators, code assistants)
 - Experience in using different applications, sucs as document and presentation apps (*Office365*, *Google Workspace*, *Canva*) or image and video editors (*GIMP*, *Photoshop*, *ClipChamp*)
+
+## My links:
+- To my [Facebook](https://www.facebook.com/miklos.rabai.16/) 💬
+- To my [proudest work](https://kharpet.onrender.com/) 🎯
