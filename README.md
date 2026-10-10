@@ -2,8 +2,7 @@
 
 ## 💻 My name is *Miklós Rábai* and I'm studying IT to become a **software developer**
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Hajarajaran)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Hajarajaran&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Hajarajaran&langs_count=5&theme=dark_github)
 
 ## The programming languages I can code in:
 - Python 🐍
