@@ -2,6 +2,9 @@
 
 ## 💻 My name is *Miklós Rábai* and I'm studying IT to become a **software developer**
 
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Hajarajaran)](https://github.com/stats-organization/github-stats-extended)
+
+
 ## The programming languages I can code in:
 - Python 🐍
 - HTML </>
@@ -17,4 +20,4 @@
 
 ## My links:
 - 💬 To my [Facebook](https://www.facebook.com/miklos.rabai.16/)
-- 🎯 To my [proudest work](https://kharpet.onrender.com/)
+- 🎯 To my [proudest work](https://kharpet.onrender.com/)s
