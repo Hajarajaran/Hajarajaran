@@ -7,8 +7,6 @@
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Hajarajaran&langs_count=4&theme=dark_github"/>
 </div>
 
-
-
 ## The programming languages I can code in:
 - Python 🐍
 - HTML </>s
