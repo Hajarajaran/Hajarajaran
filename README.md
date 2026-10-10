@@ -1,13 +1,13 @@
-# Hi 
+# Hi 👋
 
-## My name is *Miklós Rábai* and I'm studying IT to become a **software developer**.
+## My name is *Miklós Rábai* and I'm studying IT to become a **software developer** 💻
 
 ## The programming languages I can code in:
-- Python
-- HTML
-- CSS
-- JavaScript
-- C#
+- Python 🐍
+- HTML </>
+- CSS 🎨
+- JavaScript {}
+- C# 💻
 
 ## My main IT and digital skills are:
 - Creating simple websites and web applications (in *VSCode* with *HTML*/*CSS*/*JS*)
