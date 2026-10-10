@@ -1,6 +1,6 @@
-# Hi 👋
+# 👋 Hi! Welcome to my GitHub introduction
 
-## My name is *Miklós Rábai* and I'm studying IT to become a **software developer** 💻
+## 💻 My name is *Miklós Rábai* and I'm studying IT to become a **software developer**
 
 ## The programming languages I can code in:
 - Python 🐍
@@ -16,5 +16,5 @@
 - Experience in using different applications, sucs as document and presentation apps (*Office365*, *Google Workspace*, *Canva*) or image and video editors (*GIMP*, *Photoshop*, *ClipChamp*)
 
 ## My links:
-- To my [Facebook](https://www.facebook.com/miklos.rabai.16/) 💬
-- To my [proudest work](https://kharpet.onrender.com/) 🎯
+- 💬 To my [Facebook](https://www.facebook.com/miklos.rabai.16/)
+- 🎯 To my [proudest work](https://kharpet.onrender.com/)
