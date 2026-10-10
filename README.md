@@ -9,7 +9,7 @@
 
 ## The programming languages I can code in:
 - Python 🐍
-- HTML </>s
+- HTML </>
 - CSS 🎨
 - JavaScript {}
 - C# 💻
