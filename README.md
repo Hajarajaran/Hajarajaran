@@ -4,7 +4,7 @@
 
 <div align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=Hajarajaran&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark_github"/>
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Hajarajaran&langs_count=5&theme=dark_github"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Hajarajaran&langs_count=4&theme=dark_github"/>
 </div>
 
 
