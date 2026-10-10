@@ -9,6 +9,8 @@
 - JavaScript {}
 - C# 💻
 
+$${\color{red}Red}$$
+
 ## My main IT and digital skills are:
 - Creating simple websites and web applications (in *VSCode* with *HTML*/*CSS*/*JS*)
 - Creating simple desktop applications and games (in *VS2026*/*VSCode*/*Unity* with *C#*/*Python*)
